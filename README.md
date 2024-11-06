@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is SURAJ and I'm a Collage Students, from Bihar</h2>
+<h2 align="center">Hi Everyone👋! My name is Suraj kumar and I'm a Collage Students, from Bihar</h2>
 
 ###
 
